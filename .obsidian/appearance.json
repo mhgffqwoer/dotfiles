@@ -1,0 +1,19 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "interfaceFontFamily": "FiraMono Nerd Font Mono",
+  "textFontFamily": "FiraMono Nerd Font Mono",
+  "monospaceFontFamily": "FiraMono Nerd Font Mono",
+  "baseFontSize": 14,
+  "showViewHeader": true,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "dashboard",
+    "color",
+    "size",
+    "ttt",
+    "pretty-table"
+  ],
+  "translucency": false,
+  "showRibbon": true
+}

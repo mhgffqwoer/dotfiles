@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "создал заметку": "date",
+    "месяц": "text",
+    "год": "text",
+    "month": "number",
+    "year": "text"
+  }
+}

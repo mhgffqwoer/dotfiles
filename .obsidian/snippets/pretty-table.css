@@ -1,0 +1,28 @@
+/* Стили для заметок с cssclass: pretty-table */
+
+/* Стиль для таблицы в обоих режимах (редактирование и предпросмотр) */
+.pretty-table  table {
+  width: 100%;
+  border: 1.5px solid #000000;
+  box-shadow: 0 0px 12px rgba(115, 115, 115, 0.9);
+}
+
+/* Заголовки таблиц */
+.pretty-table  th {
+  color: #000000;
+  font-size: 0.75em;
+  text-align: center;
+}
+
+/* Ячейки таблицы */
+.pretty-table  td {
+  text-align: center;
+    padding: 3px 3px;
+  font-size: 0.75em;
+}
+
+.pretty-table td[data-content="x"] {
+  background-color: #ffeb3b !important;
+  font-weight: bold;
+  color: #000;
+}

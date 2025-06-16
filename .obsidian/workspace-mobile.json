@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a1a5b9cc0844d1e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "052b29f961ed65f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "781eef0edf1d247b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "15150b98559839a4"
+          }
+        ]
+      },
+      {
+        "id": "7a805dfb4beac99f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e2188f4b5f4e47",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "15150b98559839a4"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05d2f843be187cef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9a140c4269237864",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7b4342a9629f4aaa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b8b28824e039161d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "01fe6bec9444d776",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "535043c19a862e8c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "414f7efef88e4a83",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "040e21c25b5523ff",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "73113d543169c7f5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "1dfd39f3ae847544",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false
+    }
+  },
+  "active": "781eef0edf1d247b",
+  "lastOpenFiles": [
+    "Golang.md",
+    "IT/Merge Sort.md",
+    "Lil peep - Star shopping.md",
+    "IT/Sorting algorithms.md",
+    "Cache/780px-Depth-first-tree.svg.png",
+    "IT/Graph.md",
+    "IT/BFS.md",
+    "IT/DFS.md",
+    "Словарь.md",
+    "Линейная алгебра.md",
+    "Комбинаторика.md",
+    "Автоматы.md",
+    "Cache/Breadth-First-Search-Algorithm.gif",
+    "Calendar/2024-05-01.md",
+    "Calendar/2024-05-03.md",
+    "English.md",
+    "IT/Double hash.md",
+    "IT/Opened address.md",
+    "IT/Closed address.md",
+    "English/Rules.md",
+    "English/Words.md",
+    "Calendar/2024-05-02.md",
+    "Calendar/2024-05-04.md",
+    "2024-04-29.md",
+    "2024-04-30.md",
+    "Bubble sort.md",
+    "Linear search.md",
+    "Binary search.md",
+    "Education/Цели на день",
+    "Education/Книги",
+    "Education/Цели на месяц",
+    "Education",
+    "Cache",
+    "MyConspects/Algorithms",
+    "MyConspects",
+    "Templates"
+  ]
+}

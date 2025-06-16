@@ -1,0 +1,19 @@
+{
+  "trashOption": "none",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Cache",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": true,
+  "smartIndentList": false,
+  "foldIndent": false,
+  "strictLineBreaks": false,
+  "spellcheck": false
+}
